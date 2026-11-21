@@ -58,3 +58,7 @@ Python, pandas, Matplotlib, tfcausalimpact (TensorFlow Probability), Jupyter.
 
 **Said Velásquez**, Computer Engineering student based in Madrid.
 [LinkedIn](https://www.linkedin.com/in/said-velasquez) · [GitHub](https://github.com/said-velasquez)
+
+## License
+
+MIT, see [`LICENSE`](LICENSE).
